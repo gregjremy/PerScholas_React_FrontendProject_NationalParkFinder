@@ -7,7 +7,7 @@
 }
 
 #nav-bar {
-  background-color: lightblue;
+  background-color: greenyellow;
   height: 50px;
   width: 100%;
 }
@@ -26,9 +26,3 @@
   width: 100%;
 }
 
-.container{
-  background-color: greenyellow;
-  border: brown 3px solid;
-  width: 50vw;
-  height: 50vh;
-}

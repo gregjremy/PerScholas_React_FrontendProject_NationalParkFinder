@@ -7,10 +7,16 @@ function NavBar() {
     <nav id="nav-bar">
         <ul>
           <li>
-            <Link to="/home">Home</Link>
+            <Link to="/">Home</Link>
           </li>
           <li>
             <Link to="/parksbystate">Parks By State</Link>
+          </li>
+          <li>
+            <Link to ="/parksbyactivity">Parks By Activity</Link>
+          </li>
+          <li>
+            <Link to ="/parksbyevent">Parks By Event</Link>
           </li>
         </ul>
       </nav>

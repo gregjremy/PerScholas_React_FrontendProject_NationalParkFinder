@@ -5,8 +5,8 @@ import ParkSearch from '../components/ParkSearch';
 const ParksByState = () => {
     return (
         <div>
-            Use our dropdown list to select a state or territory. We'll display a list of parks that can be found in
-            the selected locale.
+            Type in the two digit abbreviation of the state you would like to search. A list of National Parks in
+            that state will be generated. Click the name of the park for more detailed information.
 
             <ParkSearch />
             <Display />
