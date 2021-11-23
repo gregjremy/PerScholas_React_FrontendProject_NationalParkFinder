@@ -18,7 +18,7 @@ function App() {
         <Route exact path="/parksbystate">
           <ParksByState />
         </Route>
-        <Route exact path="parksbyactivity">
+        <Route exact path="/parksbyactivity">
           <ParksByActivity />
         </ Route>
         <Route exact path="/parksbyevent">
